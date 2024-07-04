@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\refint\03.RectangleArea.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\ref\03.RectangleArea.dll

@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\bin\Debug\net6.0\05.GreetingbyName.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\bin\Debug\net6.0\05.GreetingbyName.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\bin\Debug\net6.0\05.GreetingbyName.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\bin\Debug\net6.0\05.GreetingbyName.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\bin\Debug\net6.0\05.GreetingbyName.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\refint\05.GreetingbyName.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\05.GreetingbyName.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 01\01.FirstStepsInCoding-Lab\05.GreetingbyName\obj\Debug\net6.0\ref\05.GreetingbyName.dll
