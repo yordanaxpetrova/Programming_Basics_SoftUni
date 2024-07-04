@@ -1,6 +1,6 @@
 Topics in the course:
 1. First steps in programming
-#• What is programming?;
+• What is programming?;
 • Variables;
 • Data types;
 • Console Input/Output;
