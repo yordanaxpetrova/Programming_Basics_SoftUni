@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net6.0\04.EvenPowersof2.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net6.0\04.EvenPowersof2.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net6.0\04.EvenPowersof2.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net6.0\04.EvenPowersof2.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net6.0\04.EvenPowersof2.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\refint\04.EvenPowersof2.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\04.EvenPowersof2.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net6.0\ref\04.EvenPowersof2.dll

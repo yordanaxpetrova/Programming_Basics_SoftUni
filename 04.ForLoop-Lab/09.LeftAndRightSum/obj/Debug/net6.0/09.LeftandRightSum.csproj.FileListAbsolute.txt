@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\bin\Debug\net6.0\09.LeftandRightSum.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\bin\Debug\net6.0\09.LeftandRightSum.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\bin\Debug\net6.0\09.LeftandRightSum.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\bin\Debug\net6.0\09.LeftandRightSum.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\bin\Debug\net6.0\09.LeftandRightSum.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\refint\09.LeftandRightSum.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\09.LeftandRightSum.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\09.LeftandRightSum\obj\Debug\net6.0\ref\09.LeftandRightSum.dll

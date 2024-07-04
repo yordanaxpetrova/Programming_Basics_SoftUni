@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\refint\01.USDtoBGN.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\net6.0\ref\01.USDtoBGN.dll

@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\bin\Debug\net6.0\01.Numbersfrom1to100.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\refint\01.Numbersfrom1to100.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\01.Numbersfrom1to100.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 04\ForLoop-Lab\01.Numbersfrom1to100\obj\Debug\net6.0\ref\01.Numbersfrom1to100.dll

@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net6.0\02.RadianstoDegrees.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net6.0\02.RadianstoDegrees.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net6.0\02.RadianstoDegrees.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net6.0\02.RadianstoDegrees.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net6.0\02.RadianstoDegrees.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\refint\02.RadianstoDegrees.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\02.RadianstoDegrees.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 01\FirstStepsInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net6.0\ref\02.RadianstoDegrees.dll

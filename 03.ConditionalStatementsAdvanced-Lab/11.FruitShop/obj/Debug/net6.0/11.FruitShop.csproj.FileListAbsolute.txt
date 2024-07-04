@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\net6.0\11.FruitShop.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\refint\11.FruitShop.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\11.FruitShop.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\net6.0\ref\11.FruitShop.dll

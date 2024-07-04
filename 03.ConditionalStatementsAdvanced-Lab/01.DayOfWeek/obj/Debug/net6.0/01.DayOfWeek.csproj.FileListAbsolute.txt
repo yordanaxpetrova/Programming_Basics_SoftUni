@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\refint\01.DayOfWeek.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Lecture 03\ConditionalStatementsAdvanced-Lab\01.DayOfWeek\obj\Debug\net6.0\ref\01.DayOfWeek.dll

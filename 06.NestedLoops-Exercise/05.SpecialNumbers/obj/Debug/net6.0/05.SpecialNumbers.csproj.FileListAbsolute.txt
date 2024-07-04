@@ -1,0 +1,14 @@
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.exe
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.deps.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.runtimeconfig.json
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\refint\05.SpecialNumbers.dll
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.pdb
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.genruntimeconfig.cache
+C:\Users\Йордана Петрова\Documents\Лични\Уни\SoftUni\Exercise 06\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\ref\05.SpecialNumbers.dll
